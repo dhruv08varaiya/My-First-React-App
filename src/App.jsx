@@ -10,7 +10,7 @@ function App() {
     <>
       <h1>My First React App </h1>
       <p>this is my first React application!</p>
-      <p>hey this is my first web application!</p>
+      <p>Made by dhruv </p>
     </>
   )
 }
